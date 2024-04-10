@@ -26,11 +26,13 @@ main{
 .imagen{
     margin: 10px;
     height: 150px;
+    border-radius:10px;
 }
 .imagen:hover{
     padding: 5px;
     height: 175px;
     width: 175px;
+    border-radius:10px;
 }
 .imagen:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
