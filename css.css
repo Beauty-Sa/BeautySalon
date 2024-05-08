@@ -38,7 +38,7 @@ main{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     border-radius: 100%;
   }
-footer{
+.rodape{
     background: rgb(255, 71, 151);
     border: 1px;
     border-radius: 10px;
