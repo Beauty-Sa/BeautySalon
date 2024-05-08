@@ -16,29 +16,29 @@ body{
     margin-right: 95%;
     margin-top: -7px;
 }
-.main{
+main{
     background: rgb(255, 71, 151);
     border: 1px;
     border-radius: 10px;
     border-style: solid;
     border-color: black;
 }
-.imagem{
+imagem{
     margin: 10px;
     height: 150px;
     border-radius:10px;
 }
-.imagem:hover{
+imagem:hover{
     padding: 5px;
     height: 175px;
     width: 175px;
     border-radius:10px;
 }
-.imagem:hover{
+imagem:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     border-radius: 100%;
   }
-.footer{
+footer{
     background: rgb(255, 71, 151);
     border: 1px;
     border-radius: 10px;
